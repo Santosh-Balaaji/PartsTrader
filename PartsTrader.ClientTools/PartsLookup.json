@@ -1,0 +1,27 @@
+[
+  {
+    "PartNumber": "1234-Test1",
+    "Description": "Test Data1"
+  },
+  {
+    "PartNumber": "5555-Test2",
+    "Description": "Test Data2"
+  },
+  {
+    "PartNumber": "9999-Test3",
+    "Description": "Test Data3"
+  },
+  {
+    "PartNumber": "1111-Invoice",
+    "Description": "Invoice line"
+  },
+  {
+    "PartNumber": "1234-abcd",
+    "Description": "Test Part Number"
+  },
+  {
+    "PartNumber": "9999-charge",
+    "Description": "Stealth charge added for rude customers"
+  }
+]
+
